@@ -1,1 +1,1 @@
-# Noise Removal using Convolutional AutoEncoders using MNIST dataset
+# Noise Removal using Convolutional AutoEncoders - MNIST dataset
